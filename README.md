@@ -1,4 +1,4 @@
-# Data Science Projects 
+# Clustering Projects 
 ## Dbscan Clustering Capetown Airbnb top 20% listings
 
 
