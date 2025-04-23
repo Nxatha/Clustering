@@ -1,4 +1,4 @@
-# Leaflet map and Clustering in R 
+# Airbnb Listing segmentation in R 
 ## [Dbscan Clustering Leaflet Map of Capetown Airbnb top 20% listings](https://rpubs.com/nxatha/CapetownTopAirbnb/) 
 An interactive map of Capetown with markers indicating listings clustered by reviews and pricing. Click on markers
 to view listing details, Zoom to locations and View legend to determine price ranges of clusters.
